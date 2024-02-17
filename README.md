@@ -11,8 +11,7 @@ This project is a css project, User friendly Solor system explorer w/ imformatio
 
 
 ## Contributing
-Contributions are welcome!
-If you have any suggestions, improvements, or bug fixes, please open an issue or create a pull request.
+Contributions are welcome!If you have any suggestions, improvements, or bug fixes, please open an issue or create a pull request.
 
 <hr>
 
