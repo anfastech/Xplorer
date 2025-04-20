@@ -6,7 +6,7 @@
 
   .bag {
     box-shadow: inset 200px -760px 1300px -10px black;
-    background-image: url(./src/black.jpg);
+    background-image: url(/black.jpg);
     background-size: cover;
     background-position: center;
     border-bottom: 720px solid white;
