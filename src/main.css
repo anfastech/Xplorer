@@ -181,3 +181,19 @@
 
 
 }
+
+.bag {
+    box-shadow: inset 200px -760px 1300px -10px black;
+    background-image: url('black.jpg');
+    background-size: cover;
+    background-position: center;
+    border-bottom: 720px solid white;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 147.3%;
+    border: black solid 2px;
+    padding: 0;
+    height: 58%;
+    z-index: -4;
+  }
